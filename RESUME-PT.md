@@ -1,4 +1,5 @@
 # Guilherme Isaías - Desenvolvedor Full-Stack Pleno
+
 ## Contato:
 - Email: [guilherme@guilhermeweb.dev](mailto:guilherme@guilhermeweb.dev)
 - Celular: [+55 (32) 9 9198-2237](https://web.whatsapp.com/send?phone=5532991982237)
@@ -6,13 +7,14 @@
 - WebSite: [guilhermeweb.dev](https://guilhermeweb.dev/)
 - Linkedin: [linkedin.com/in/guilherme-isaías-silva/](https://www.linkedin.com/in/guilherme-isa%C3%ADas-silva/)
 - Pretensão salarial: R$3.500,00 CLT / R$5.500,00 PJ
+
 ## Sobre:
-Sou desenvolvedor web full-stack e estou em busca de novas oportunidades na área, para desenvolver mais minha experiência, melhorar minhas habilidades em equipe e sustentar estudos. Atualmente trabalho como desenvolvedor autônomo, projetando e criando sistemas web, com interface, aplicativo mobile e backend. Possuo sólido conhecimento em OOP, programação funcional, arquitetura de software, Python, JavaScript e DevOps. Tenho muito interesse na área de escalabilidade de aplicações, otimização, performance e segurança e SEO.
+Sou desenvolvedor web full-stack e estou em busca de novas oportunidades na área, para desenvolver mais minha experiência, melhorar minhas habilidades em equipe e sustentar estudos. Atualmente trabalho como desenvolvedor autônomo, projetando e criando sistemas web, com interface, aplicativo mobile e backend. Possuo sólido conhecimento em OOP, programação funcional, arquitetura de software, Python, JavaScript e DevOps. Tenho muito interesse na área de escalabilidade de aplicações, otimização, performance e segurança e SEO.  
+
 ## Tecnologias:
-- HTML, SCSS;
-- JavaScript, Node.js, React.js, React-Native, Typescript, Next.js;
+- HTML, SCSS, JavaScript, React.js, React-Native, Next.js;
 - GraphQL, RESTful;
-- Python, Django;
+- Python, Django, Node.js, Typescript;
 - PostgreSQL, SQL;
 - Linux, Docker, CI/CD, GitLab, GitHub, Git, AWS;
 ## Experiências:
@@ -23,12 +25,13 @@ Sou desenvolvedor web full-stack e estou em busca de novas oportunidades na áre
 - **Manutenção em sistema de ERP** construído em Django. Minha tarefa é implementar novas funcionalidades para o sistema e corrigir falhas que viessem ocorrer.
 - **Manutenção em aplicativo móvel**, feito em cordova para IOS. O objetivo era implementar o método de pagamentos da Apple e publicar na AppStore.
 - **Criação de aplicativo móvel em React-Native e Django**. O projeto é uma rede social, semelhante ao Facebook, com feed, autenticação, fóruns, chat, podcasts, entre outras funcionalidades.
-## Metodologias:
-- Realizo a coleta de requisitos do software conversando diretamente com o cliente, buscando entender suas necessidades, e especifico todas elas em um documento, da forma que qualquer desenvolvedor possa entender;
-- Com base nos requisitos eu elaboro a arquitetura do software, os design patterns e as tecnologias que serão mais indicadas ao projeto. Em alguns casos uso arquitetura de micro-serviços e/ou arquitetura limpa;
-- Com esse planejamento eu consigo elaborar uma proposta comercial para o cliente contendo prazos e custos com o software, com sua aprovação eu codifico;
-- Para garantir a qualidade do software costumo utilizar testes unitários e de ponta a ponta para certificar seu funcionamento. Estabeleço prazos e me certifico dos recursos para que o software seja realmente entregue. Crio documentações para que o usuário tenha um manual de operações do software. Utilizo a infraestrutura adequada para que o software possua performance adequada e realizo testes de estresse. Trabalho orientado a lógica do software, e utilizo ferramentas para melhorar a segurança do software. Utilizo recursos para garantir a compatibilidade do software tanto no servidor quanto no cliente. Busco escrever um código limpo, utilização de design patterns, e outras ferramentas para facilitar a manutenção do software. E para garantir a transferibilidade utilizo recursos como variáveis de ambiente e CI/CD.
-- Administro o projeto utilizando metodologias como Scrum ou Kanban através do Jira;
+
+## Habilidades:
+- Comunicação com o cliente para definir estórias e backlogs;
+- Adoção de arquiteturas e design patterns para cada projeto;
+- Determinar prazos e custos do projeto;
+- Qualidade de software utilizando testes automatizados, determinação realista de prazos, elaboração de documentações, dimensionamento adequado dos recursos, ferramentas que melhoram a segurança, utilização de código limpo, recursos para garantir a compatibilidade e a transferibilidade.
+- Gestão de projetos utilizando metodologias como Scrum ou Kanban;
 
 ## Estudos:
 Atualmente estou me aperfeiçoando em soluções backend como Kubernetes, ElasticSearch, otimizações em bancos de dados. Tenho interesse também em conhecer mais profundamente Java, Elixir, Rust, C e inteligência artificial.
