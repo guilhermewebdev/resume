@@ -17,14 +17,15 @@ Sou desenvolvedor web full-stack e estou em busca de novas oportunidades na áre
 - Python, Django, Node.js, Typescript;
 - PostgreSQL, SQL;
 - Linux, Docker, CI/CD, GitLab, GitHub, Git, AWS;
+
 ## Experiências:
-- **Sistema de gestão de estoque para clinica odontológica** utilizando Django e Vue.js. O sistema utiliza autenticação com os funcionários da empresa, as auxiliares dos dentistas fazem a requisição do material, e o administrador do estoque verifica a disponibilidade e entrega no consultório.
-- **Sistema de gestão para laboratórios de próteses odontológicas** utilizando Django e React. O sistema oferece administração do fluxo de trabalho, desde a chegada até a entrega do pedido, gestão de clientes e financeiro. Com emissão de relatórios e notas.
-- **E-commerce  de roupas** utilizando WordPress.
-- **Plataforma online para contratação de enfermeiros** utilizando Next.js e Django. A plataforma consiste no cadastro de profissionais de enfermaria e os clientes interessados em contratar um profissional. Todo o processo de contratação e pagamento é realizado por meio da plataforma.
-- **Manutenção em sistema de ERP** construído em Django. Minha tarefa é implementar novas funcionalidades para o sistema e corrigir falhas que viessem ocorrer.
-- **Manutenção em aplicativo móvel**, feito em cordova para IOS. O objetivo era implementar o método de pagamentos da Apple e publicar na AppStore.
-- **Criação de aplicativo móvel em React-Native e Django**. O projeto é uma rede social, semelhante ao Facebook, com feed, autenticação, fóruns, chat, podcasts, entre outras funcionalidades.
+- **Sistema de gestão de estoque para clinica odontológica** utilizando Django e Vue.js. O sistema utiliza autenticação com os funcionários da empresa, as auxiliares dos dentistas fazem a requisição do material, e o administrador do estoque verifica a disponibilidade e entrega no consultório. Com isso a clinica aumentou sua produtividade, e prevenção de problemas como a falta de algum material. ([github.com/guilhermewebdev/stock](https://github.com/guilhermewebdev/stock));
+- **Sistema de gestão para laboratórios de próteses odontológicas** utilizando Django e React. O sistema oferece administração do fluxo de trabalho, desde a chegada até a entrega do pedido, gestão de clientes e financeiro. Com emissão de relatórios e notas. ([github.com/guilhermewebdev/lab-manager](https://github.com/guilhermewebdev/lab-manager));
+- **E-commerce  de roupas** utilizando WordPress. ([dudamodas.net/](https://dudamodas.net/))
+- **Plataforma online para contratação de enfermeiros** utilizando Next.js e Django. A plataforma consiste no cadastro de profissionais de enfermaria e os clientes interessados em contratar um profissional. Todo o processo de contratação e pagamento é realizado por meio da plataforma. ([github.com/guilhermewebdev/acacia-api](https://github.com/guilhermewebdev/acacia-api))
+- **Manutenção em sistema de ERP** construído em Django. Minha tarefa é implementar novas funcionalidades para o sistema e corrigir falhas que viessem ocorrer. ([space.scapole.com/](https://space.scapole.com/))
+- **Manutenção em aplicativo móvel**, feito em cordova para IOS. O objetivo era implementar o método de pagamentos da Apple e publicar na AppStore. (Em desenvolvimento)
+- **Criação de aplicativo móvel em React-Native e Django**. O projeto é uma rede social, semelhante ao Facebook, com feed, autenticação, fóruns, chat, podcasts, entre outras funcionalidades. (Em desenvolvimento)
 
 ## Habilidades:
 - Comunicação com o cliente para definir estórias e backlogs;
