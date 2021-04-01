@@ -16,14 +16,6 @@ Sou desenvolvedor web full-stack e estou em busca de novas oportunidades na áre
 - Python, Flask, FastApi, Django;
 - PostgreSQL, MySQL, MongoDB, SQL;
 - Linux, Docker, CI/CD, GitLab, GitHub, Git, AWS, Azure;
-### Metodologias:
-- Realizo a coleta de requisitos do software conversando diretamente com o cliente, buscando entender suas necessidades, e especifico todas elas em um documento, da forma que qualquer desenvolvedor possa entender;
-- Com base nos requisitos eu elaboro a arquitetura do software, os design patters e as tecnologias que serão mais indicadas ao projeto;
-- Em alguns casos uso arquitetura de micro-serviços e/ou arquitetura limpa.
-- Com esse planejamento eu consigo elaborar uma proposta comercial para o cliente contendo prazos e custos com o software, com sua aprovação eu codifico;
-- Para garantir a qualidade do software costumo utilizar testes unitários e de ponta a ponta para certificar seu funcionamento. Estabeleço prazos e me certifico dos recursos para que o software seja realmente entregue. Crio documentações para que o usuário tenha um manual de operações do software. Utilizo a infraestrutura adequada para que o software possua performance adequada e realizo testes de estresse. Trabalho orientado a lógica do software, e utilizo ferramentas para melhorar a segurança do software. Utilizo recursos para garantir a compatibilidade do software tanto no servidor quanto no cliente. Busco escrever um código limpo, utilização de design patters, e outras ferramentas para facilitar a manutenção do software. E para garantir a transferibilidade utilizo recursos como variáveis de ambiente e CI/CD.
-- Administro o projeto utilizando metodologias como Scrum ou Kanban através do Jira;
-
 ### Experiências:
 - Sistema de gestão de estoque para clinica odontológica utilizando Django e Vue.js. O sistema utiliza autenticação com os funcionários da empresa, as auxiliares dos dentistas fazem a requisição do material, e o administrador do estoque verifica a disponibilidade e entrega no consultório.
 - Sistema de gestão para laboratórios de próteses odontológicas utilizando Django e React. O sistema oferece administração do fluxo de trabalho, desde a chegada até a entrega do pedido, gestão de clientes e financeiro. Com emissão de relatórios e notas.
@@ -32,3 +24,10 @@ Sou desenvolvedor web full-stack e estou em busca de novas oportunidades na áre
 - Manutenção em sistema de ERP construído em Django. Minha tarefa é implementar novas funcionalidades para o sistema e corrigir falhas que viessem ocorrer.
 - Manutenção em aplicativo móvel, feito em cordova para IOS. O objetivo era implementar o método de pagamentos da Apple e publicar na AppStore.
 - Criação de aplicativo móvel em React-Native e Django. O projeto é uma rede social, semelhante ao Facebook, com feed, autenticação, fóruns, chat, podcasts, entre outras funcionalidades.
+### Metodologias:
+- Realizo a coleta de requisitos do software conversando diretamente com o cliente, buscando entender suas necessidades, e especifico todas elas em um documento, da forma que qualquer desenvolvedor possa entender;
+- Com base nos requisitos eu elaboro a arquitetura do software, os design patters e as tecnologias que serão mais indicadas ao projeto;
+- Em alguns casos uso arquitetura de micro-serviços e/ou arquitetura limpa.
+- Com esse planejamento eu consigo elaborar uma proposta comercial para o cliente contendo prazos e custos com o software, com sua aprovação eu codifico;
+- Para garantir a qualidade do software costumo utilizar testes unitários e de ponta a ponta para certificar seu funcionamento. Estabeleço prazos e me certifico dos recursos para que o software seja realmente entregue. Crio documentações para que o usuário tenha um manual de operações do software. Utilizo a infraestrutura adequada para que o software possua performance adequada e realizo testes de estresse. Trabalho orientado a lógica do software, e utilizo ferramentas para melhorar a segurança do software. Utilizo recursos para garantir a compatibilidade do software tanto no servidor quanto no cliente. Busco escrever um código limpo, utilização de design patters, e outras ferramentas para facilitar a manutenção do software. E para garantir a transferibilidade utilizo recursos como variáveis de ambiente e CI/CD.
+- Administro o projeto utilizando metodologias como Scrum ou Kanban através do Jira;
