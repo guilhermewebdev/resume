@@ -9,12 +9,12 @@
 ## Sobre:
 Sou desenvolvedor web full-stack e estou em busca de novas oportunidades na área, para desenvolver mais minha experiência, melhorar minhas habilidades em equipe e sustentar estudos. Atualmente trabalho como desenvolvedor autônomo, projetando e criando sistemas web, com interface, aplicativo mobile e backend. Possuo sólido conhecimento em OOP, programação funcional, arquitetura de software, Python, JavaScript e DevOps. Tenho muito interesse na área de escalabilidade de aplicações, otimização, performance e segurança e SEO.
 ## Tecnologias:
-- HTML, CSS, SCSS, Figma, Jekyll, WordPress;
-- JavaScript, Node.js, Express, React.js, React-Native, Typescript, Angular, Vue.js, Next.js;
+- HTML, SCSS;
+- JavaScript, Node.js, React.js, React-Native, Typescript, Next.js;
 - GraphQL, RESTful;
-- Python, Flask, FastApi, Django;
-- PostgreSQL, MySQL, MongoDB, SQL;
-- Linux, Docker, CI/CD, GitLab, GitHub, Git, AWS, Azure;
+- Python, Django;
+- PostgreSQL, SQL;
+- Linux, Docker, CI/CD, GitLab, GitHub, Git, AWS;
 ## Experiências:
 - **Sistema de gestão de estoque para clinica odontológica** utilizando Django e Vue.js. O sistema utiliza autenticação com os funcionários da empresa, as auxiliares dos dentistas fazem a requisição do material, e o administrador do estoque verifica a disponibilidade e entrega no consultório.
 - **Sistema de gestão para laboratórios de próteses odontológicas** utilizando Django e React. O sistema oferece administração do fluxo de trabalho, desde a chegada até a entrega do pedido, gestão de clientes e financeiro. Com emissão de relatórios e notas.
