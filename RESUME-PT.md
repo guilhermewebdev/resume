@@ -6,7 +6,7 @@
 - GitHub: [guilhermewebdev](https://github.com/guilhermewebdev)
 - WebSite: [guilhermeweb.dev](https://guilhermeweb.dev/)
 - Linkedin: [linkedin.com/in/guilherme-isaías-silva/](https://www.linkedin.com/in/guilherme-isa%C3%ADas-silva/)
-- Pretensão salarial: R$3.500,00 CLT / R$5.500,00 PJ
+- Pretensão salarial: R$5.500,00 CLT / R$9.500,00 PJ
 
 ## Sobre:
 Sou desenvolvedor web full-stack e estou em busca de novas oportunidades na área, para desenvolver mais minha experiência, melhorar minhas habilidades em equipe e sustentar estudos. Atualmente trabalho como desenvolvedor autônomo, projetando e criando sistemas web, com interface, aplicativo mobile e backend. Possuo sólido conhecimento em OOP, programação funcional, arquitetura de software, Python, JavaScript e DevOps. Tenho muito interesse na área de escalabilidade de aplicações, otimização, performance, segurança e SEO.  
