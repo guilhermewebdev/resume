@@ -1,4 +1,4 @@
-# Guilherme Isaías - Desenvolvedor Full-Stack Pleno
+# Guilherme Isaías - Desenvolvedor Full-Stack
 
 ## Contato:
 - Email: [guilherme@guilhermeweb.dev](mailto:guilherme@guilhermeweb.dev)
@@ -6,15 +6,15 @@
 - GitHub: [guilhermewebdev](https://github.com/guilhermewebdev)
 - WebSite: [guilhermeweb.dev](https://guilhermeweb.dev/)
 - Linkedin: [linkedin.com/in/guilherme-isaías-silva/](https://www.linkedin.com/in/guilherme-isa%C3%ADas-silva/)
-- Pretensão salarial: R$14.000,00 PJ
+- Pretensão salarial: R$11.000,00 PJ
 
 ## Sobre:
 Sou desenvolvedor web full-stack e estou em busca de novas oportunidades na área, para desenvolver mais minha experiência, melhorar minhas habilidades em equipe e sustentar estudos. Atualmente trabalho como desenvolvedor autônomo, projetando e criando sistemas web, com interface, aplicativo mobile e backend. Possuo sólido conhecimento em OOP, programação funcional, arquitetura de software, Python, JavaScript e DevOps. Tenho muito interesse na área de escalabilidade de aplicações, otimização, performance, segurança e SEO.  
 
 ## Tecnologias:
-- HTML, SCSS, JavaScript, React.js, React-Native, Next.js;
+- HTML, SASS, JavaScript, React.js, React-Native, Next.js;
 - GraphQL, RESTful;
-- Python, Django, Node.js, Typescript;
+- Python, Golang, Node.js, Typescript;
 - PostgreSQL, MySQL, MongoDB, SQL, NoSQL;
 - Linux, Docker, CI/CD, GitLab, GitHub, Git, AWS, Kubernetes;
 
@@ -34,4 +34,4 @@ Sou desenvolvedor web full-stack e estou em busca de novas oportunidades na áre
 - Gestão de projetos utilizando metodologias como Scrum ou Kanban;
 
 ## Estudos:
-Atualmente estou me aperfeiçoando em soluções backend como Kubernetes, ElasticSearch, otimizações em bancos de dados. Gosto de projetos desafiadores, e que me trazem novos aprendizados.
+Atualmente estou me aperfeiçoando em soluções backend como ElasticSearch, otimizações em bancos de dados entre outros. Gosto de projetos desafiadores, e que me trazem novos aprendizados.
