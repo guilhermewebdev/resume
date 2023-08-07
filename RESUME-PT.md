@@ -13,7 +13,7 @@ Sou desenvolvedor web full-stack e estou em busca de novas oportunidades na áre
 
 ## Tecnologias:
 - HTML, SASS, JavaScript, React.js, React-Native, Next.js;
-- GraphQL, RESTful;
+- GraphQL, REST;
 - Python, Golang, Node.js, Typescript;
 - PostgreSQL, MySQL, MongoDB, SQL, NoSQL;
 - Linux, Docker, CI/CD, GitLab, GitHub, Git, AWS, Kubernetes;
