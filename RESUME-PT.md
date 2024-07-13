@@ -29,9 +29,8 @@ Sou desenvolvedor focado em soluções web. Tenho capacidade e ferramentas para 
 - **Plataforma de seguros** utilizando Ruby on Rails, microsserviços e diversas outras ferramentas. O sistema consiste em uma plataforma para contratação e administração de seguros de vida. Sendo desenvolvida dentro do time da Ferreri ([ferreri.co](https://ferreri.co)).
 
 ## Habilidades:
-- Comunicação com o cliente para definir estórias e backlogs;
-- Adoção de arquiteturas e design patterns para cada projeto;
-- Dimensionamento ideal da arquitetura e funcionamento de sistemas web complexos;
-- Determinar prazos e custos do projeto;
-- Qualidade de software utilizando testes automatizados, determinação realista de prazos, elaboração de documentações, dimensionamento adequado dos recursos, ferramentas que melhoram a segurança, utilização de código limpo, recursos para garantir a compatibilidade e a transferibilidade.
-- Gestão de projetos através da elaboração de metologias específicas para cada projeto;
+- **Comunicação:** Definição de estórias e backlogs com clientes.
+- **Planejamento:** Dimensionamento de arquitetura e funcionamento de sistemas web complexos.
+- **Gestão de Projetos:** Elaboração de metodologias específicas, determinação de prazos e custos.
+- **Qualidade de Software:** Testes automatizados, documentação, código limpo, compatibilidade e transferibilidade.
+
